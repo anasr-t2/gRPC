@@ -1,0 +1,4 @@
+obj\Debug\netcoreapp3.1/WeatherForecast.cs \
+obj\Debug\netcoreapp3.1/WeatherForecastGrpc.cs: C:/Users/Anasr/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/Anasr/.nuget/packages/grpc.tools/2.27.0/build/native/include/google/protobuf/timestamp.proto\
+ ../MeterReaderWeb/Protos/WeatherForecast.proto
